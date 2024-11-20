@@ -1,23 +1,23 @@
 #### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> I'm M Fajar N :octocat:
 
-![](https://visitor-badge.glitch.me/badge?page_id=hexfjr) 
+![](https://visitor-badge.glitch.me/badge?page_id=mfjrxn) 
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/66818358?s=40&v=4" alt="GIF" width="150" height="128"/>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/hexfjr-blue">
+<img src="https://img.shields.io/badge/hmfjrxn-blue">
   </p>
  <p align="center">
-  <a href="https://twitter.com/mfjrxn" target="blank"> <img src="https://img.shields.io/badge/@hexfjr-30302f?style=flat&logo=twitter" /></a> 
-  <a href="https://instagram.com/mfjrxn" target="blank"> <img src="https://img.shields.io/badge/@hexfjr-30302f?style=flat&logo=instagram" /> </a>
+  <a href="https://twitter.com/mfjrxn" target="blank"> <img src="https://img.shields.io/badge/@mfjrxn-30302f?style=flat&logo=twitter" /></a> 
+  <a href="https://instagram.com/mfjrxn" target="blank"> <img src="https://img.shields.io/badge/@mfjrxn-30302f?style=flat&logo=instagram" /> </a>
    <a href="https://t.me/mfjrxn_bot" target="blank"> <img src="https://img.shields.io/badge/@hexfjr-30302f?style=flat&logo=telegram" /> </a>
 </p>
 
 ## &#x1f4c8; GitHub Stats 
-[![hexfjr github stats](https://github-readme-stats.vercel.app/api?username=hexfjr&show_icons=true&theme=radical)](https://github.com/hexfjr/) <br>
-![Thropy](https://github-profile-trophy.vercel.app/?username=hexfjr&row=1&column=4)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexfjr&layout=compact)](https://github.com/hexfjr/)<br>
-![Views](https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat)
+[![hexfjr github stats](https://github-readme-stats.vercel.app/api?username=mfjrxn&show_icons=true&theme=radical)](https://github.com/mfjrxn/) <br>
+![Thropy](https://github-profile-trophy.vercel.app/?username=mfjrxn&row=1&column=4)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfjrxn&layout=compact)](https://github.com/mfjrxn/)<br>
+![Views](https://komarev.com/ghpvc/?username=mfjrxn&label=Profile%20views&color=0e75b6&style=flat)
 
 <!--
 - 🔭 I’m currently studying on Junior High School on Lamongan, East Java, Indonesia
